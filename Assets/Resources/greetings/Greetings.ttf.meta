@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 70f1763288a1ce743aacf251538b53b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Greetings
+  fontNames:
+  - Greetings
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4aebfe5f0ac52ef4dbc685e3e0c0f371, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
