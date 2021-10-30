@@ -1,0 +1,5 @@
+If you are reading this, you have found the updated version of this software. Hurrah!
+I made some changes following my email, so I've left this update here in hopes you would find it.
+
+These changes mostly just contains an audio system integrated into the game.
+All audio has been solely developed by myself, so feel free to include (or not include) it within your video!
